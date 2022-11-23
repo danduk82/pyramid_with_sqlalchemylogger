@@ -1,0 +1,8 @@
+pyramid
+pyramid_chameleon
+c2cwsgiutils[standard]==5.1.5
+psycopg2-binary
+waitress
+webtest
+transaction
+Paste
